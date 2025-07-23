@@ -1,4 +1,4 @@
-# DocSense - AI Radiology Report Comparator
+# OnemedAI - AI Radiology Report Comparator
 
 This tool compares AI-generated radiology reports with original (radiologist-written) reports to identify significant differences.
 
