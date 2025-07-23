@@ -1,29 +1,20 @@
-# DocSense - Smart PDF Comparison and Analysis
+# DocSense - AI Radiology Report Comparator
 
-![Project Image](images/readme.png)
+This tool compares AI-generated radiology reports with original (radiologist-written) reports to identify significant differences.
 
-This project provides a web application for comparing PDF documents using different cosine similarity scans and a chatbot interface to interact with the processed PDFs. The application is built using Streamlit, FastAPI, and LangChain.
+## Prerequisites
 
-## Features
-
-- **PDF Comparison**: Compare two PDFs using different levels of cosine similarity scans.
-  - Document-Level Cosine Similarity Scan
-  - Sentence-Level Cosine Similarity Scan
-  - Preprocessed Sentence-Level Cosine Similarity Scan
-- **ChatBot**: Interact with the content of the PDFs using a chatbot powered by custom LLM models (LLAMA 3 and Google Gemini).
+1. Python 3.8 or higher
+2. Ollama (for running LLM models locally)
+3. Tesseract OCR (for image text extraction)
 
 ## Installation
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/lakshya324/DocSense.git
-    cd DocSense
-    ```
+### Step 1: Install Python Dependencies
 
-2. **Install the required packages**:
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
 
 3. **Set up environment variables**:
     Create a `.env` file in the root directory and add your environment variables:

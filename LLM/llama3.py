@@ -6,5 +6,5 @@ from langchain_community.llms import Ollama
 
 def llama3(prompt: str) -> str:
     # LLAMA 3 8B model
-    llm = Ollama(model="llama3")
+    llm = Ollama(model="llama3:latest")
     return llm.invoke(prompt)
