@@ -130,5 +130,5 @@ LinkedIn: [linkedin.com/in/vilaspk](https://www.linkedin.com/in/vilaspk)
 
 ---
 
-> 💬 “Empowering radiology through AI-driven understanding and transparent comparison.”
+> 💬 “Empowering radiology through AI-driven understanding  transparent comparison.”
 ```
