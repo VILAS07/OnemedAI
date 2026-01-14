@@ -1,6 +1,6 @@
 # 🧠 OnemedAI – AI Radiology Report Comparator
 
-OnemedAI is an advanced AI-powered tool that compares **AI-generated radiology reports** with **radiologist-written reports**, identifies key differences, and enables interactive exploration using local or cloud-based LLMs.
+OnemedAI is an advanced AI-powered tool that compares **AI-generated radiology reports** with **radiologist-written reports**, identifies key differences, and enables interactive exploration using local or cloud-based LLM
 
 ---
 
